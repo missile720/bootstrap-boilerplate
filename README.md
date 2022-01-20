@@ -4,7 +4,7 @@
 A basic HTML5 Bootstrap template, includes the required CSS and JS for Bootstrap to run.
 
 ## Prerequisites
-- Understanding of Bootstrap [Bootstrap](https://getbootstrap.com/)
+- Understanding of [Bootstrap](https://getbootstrap.com/)
 - Strong understanding of HTML5
 
 ## Installation
